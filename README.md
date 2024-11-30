@@ -1,5 +1,5 @@
 # Tinnapop-1728.github.io
--Tinnapop
+-Tinnapop Ratchada
  -Pele
 
 ![My Picture](nisitprofile.jpeg)
