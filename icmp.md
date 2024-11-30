@@ -1,4 +1,4 @@
-# Internet Control Message Protocol
+# Internet Control Message Protocol (ICMP)
 | CISSP Glossary-Student Guide | AWS Amazon |
 |-----------------|-----|
 |"Provides a means to send error messages and a way to probe the network to determine network availability."|"A set of communication rules that devices use to communicate errors in data transmission within a network. During the exchange of messages between the sender and receiver, unexpected errors can occur."|
