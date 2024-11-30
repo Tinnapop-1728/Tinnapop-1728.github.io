@@ -4,4 +4,4 @@
 
 ![My Picture](nisitprofile.jpeg)
 
-[ICMP](icmp)
+[Internet Control Message Protocol](icmp)
