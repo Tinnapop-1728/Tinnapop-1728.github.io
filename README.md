@@ -2,6 +2,6 @@
 -Tinnapop Ratchada
  -Pele
 
-![My Picture](nisitprofile.jpeg)
+![My Picture](Image/nisitprofile.jpeg)
 
 [Internet Control Message Protocol](icmp)
