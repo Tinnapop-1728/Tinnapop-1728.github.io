@@ -21,3 +21,5 @@
 [Product Sales Management System](https://www.figma.com/proto/Jnjkzni0odZwIX6qNDjij8/Untitled?node-id=30-879&t=ErI3xLQ9jQTR6ezI-1&starting-point-node-id=30%3A879)
 
 [Microsoft Power BI](https://drive.google.com/file/d/1gDbFmeQnw6DvcJ8LdnAJSMZFcnUyfi7v/view?usp=sharing)
+
+[System Analysis of a Grocery Store](https://drive.google.com/drive/folders/1m2owJfS5va7ZDQmmJsZWMsznIvYg30Ji?usp=sharing)
