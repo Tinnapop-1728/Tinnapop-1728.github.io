@@ -1,10 +1,10 @@
 Security Control
 ---
-->image
+![image](/Image/sccontrol.jpg)
 
 Location : หอสมุดมหาวิทยาลัยเกษตรศาสตร์ ศรีราชา
 
-Control Function : 
+Control Function : Preventation
 
 Type of Security Control : Physical Control
 
