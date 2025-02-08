@@ -15,7 +15,7 @@
 
 [Security Control](security-control.md)
 
-[Securty Requirement](security-requirement.md)
+[Secuirty Requirement](security-requirement.md)
 
 ## Projects
 [Accidents in Thailand 2020-2022](https://public.tableau.com/app/profile/tinnapop.ratchada/viz/ProjectFinal-Story1/Story1?publish=yes)
