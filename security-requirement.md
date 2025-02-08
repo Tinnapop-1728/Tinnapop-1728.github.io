@@ -1,4 +1,4 @@
-# <center><h1>--Security Requirement--</h1></center>
+# <center>--Security Requirement--</center>
 
  ## 13.1.5 Generic Web Service Security
  #### 📖-> Verify that requests containing unexpected or missing content types are rejected with appropriate headers (HTTP response status 406 Unacceptable or 415 Unsupported Media Type).
